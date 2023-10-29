@@ -1,0 +1,1 @@
+export { MmLogoNegroLetras } from "./MmLogoNegroLetras";

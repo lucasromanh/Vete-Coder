@@ -1,0 +1,110 @@
+.card-promociones {
+  background-color: var(--verde-claro-primario);
+  border: 3px solid;
+  border-color: var(--verde-oscuro-primario);
+  border-radius: 25.9px;
+  height: 270px;
+  overflow: hidden;
+  position: relative;
+  width: 460px;
+}
+
+.card-promociones .alimento-club {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20.7px;
+  font-weight: 500;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 197px;
+}
+
+.card-promociones .element {
+  color: var(--negro);
+  font-family: "Poppins", Helvetica;
+  font-size: 27.6px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+}
+
+.card-promociones .imagen {
+  height: 270px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 197px;
+}
+
+.card-promociones .imagen-wrapper {
+  background-color: #ffffff;
+  border-radius: 25.9px 0px 0px 25.9px;
+  height: 270px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 197px;
+}
+
+.card-promociones .imagen-2 {
+  height: 216px;
+  left: 35px;
+  position: absolute;
+  top: 22px;
+}
+
+.card-promociones .boton-icono-carrito-instance {
+  left: 233px !important;
+  position: absolute !important;
+  top: 182px !important;
+}
+
+.card-promociones .property-1-1-variant-4 {
+  left: 279px;
+}
+
+.card-promociones .property-1-1-variant-2 {
+  left: 278px;
+}
+
+.card-promociones .property-1-1-variant-3 {
+  left: 277px;
+}
+
+.card-promociones .property-1-1-variant-5 {
+  left: 277px;
+}
+
+.card-promociones .property-1-1-default {
+  left: 279px;
+}
+
+.card-promociones .property-1-2-variant-4 {
+  width: 127px;
+}
+
+.card-promociones .property-1-2-variant-2 {
+  width: 127px;
+}
+
+.card-promociones .property-1-2-variant-3 {
+  object-fit: cover;
+  width: 127px;
+}
+
+.card-promociones .property-1-2-variant-5 {
+  width: 129px;
+}
+
+.card-promociones .property-1-2-default {
+  width: 127px;
+}

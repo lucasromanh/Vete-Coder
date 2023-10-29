@@ -1,0 +1,11 @@
+.logo-nav-bar {
+  background-image: url(../../../static/img/mm-logo-blanco-1-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 120px;
+  width: 120px;
+}
+
+.logo-nav-bar:hover {
+  background-image: url(../../../static/img/mm-logo-negro-1.png);
+}

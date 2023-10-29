@@ -1,0 +1,8 @@
+.mm-logo-negro-letras {
+  background-image: url(../../../static/img/mm-logo-negro-letras-1-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 350px;
+  position: relative;
+  width: 350px;
+}

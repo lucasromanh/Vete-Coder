@@ -1,0 +1,1 @@
+export { HomeTemplateScreen } from "./HomeTemplateScreen";

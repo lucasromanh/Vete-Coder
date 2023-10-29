@@ -1,0 +1,7 @@
+.carrusel-cards {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+}

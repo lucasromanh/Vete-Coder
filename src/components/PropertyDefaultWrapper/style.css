@@ -1,0 +1,22 @@
+.property-default-wrapper {
+  align-items: center;
+  display: inline-flex;
+  position: relative;
+}
+
+.property-default-wrapper .class {
+  font-size: 24px !important;
+  font-weight: 500 !important;
+}
+
+.property-default-wrapper .class-2 {
+  color: var(--blanco) !important;
+  font-size: 30px !important;
+  font-weight: 600 !important;
+}
+
+.property-default-wrapper .drop-down {
+  height: 50px !important;
+  position: relative !important;
+  width: 50px !important;
+}

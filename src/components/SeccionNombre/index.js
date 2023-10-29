@@ -1,0 +1,1 @@
+export { SeccionNombre } from "./SeccionNombre";

@@ -1,0 +1,20 @@
+.seccion-nombre-wrapper {
+  height: 40px;
+  position: relative;
+  width: 220px;
+}
+
+.seccion-nombre-wrapper .secci-n-2 {
+  color: var(--negro);
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 220px;
+}

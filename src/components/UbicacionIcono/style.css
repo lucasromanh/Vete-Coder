@@ -1,0 +1,7 @@
+.ubicacion-icono {
+  background-image: url(../../../static/img/ubicacion-icono-2.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  position: relative;
+  width: 22px;
+}

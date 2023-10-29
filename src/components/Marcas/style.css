@@ -1,0 +1,20 @@
+.marcas {
+  align-items: center;
+  background-color: var(--verde-claro-primario);
+  border: 3px solid;
+  border-color: var(--verde-oscuro-primario);
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  height: 250px;
+  justify-content: center;
+  position: relative;
+  width: 1420px;
+}
+
+.marcas .img {
+  height: 198.41px;
+  object-fit: cover;
+  position: relative;
+  width: 198.41px;
+}

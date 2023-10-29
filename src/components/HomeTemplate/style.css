@@ -1,0 +1,182 @@
+.home-template {
+  background-color: var(--blanco);
+  height: 2610px;
+  width: 1512px;
+}
+
+.home-template .overlap {
+  height: 2610px;
+  position: relative;
+}
+
+.home-template .fondo-verde {
+  height: 970px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 1512px;
+}
+
+.home-template .patron-huellas {
+  height: 1239px;
+  left: 0;
+  position: absolute;
+  top: 1037px;
+  width: 1512px;
+}
+
+.home-template .ofrecemos-servicios {
+  color: var(--negro);
+  font-family: "Poppins", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 166px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 728px;
+  width: 820px;
+}
+
+.home-template .FAB-whatsapp-instance {
+  left: 404px !important;
+  position: absolute !important;
+  top: 936px !important;
+}
+
+.home-template .p {
+  color: var(--negro);
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  height: 48px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1705px;
+}
+
+.home-template .footer-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 2210px !important;
+}
+
+.home-template .marcas-instance {
+  left: 46px !important;
+  position: absolute !important;
+  top: 1840px !important;
+}
+
+.home-template .text-wrapper-5 {
+  color: var(--negro);
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  height: 60px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1199px;
+}
+
+.home-template .carusel {
+  height: 270px;
+  left: 46px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 1340px;
+  width: 1466px;
+}
+
+.home-template .nav-bar-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home-template .text-wrapper-6 {
+  color: var(--negro);
+  font-family: "Belleza", Helvetica;
+  font-size: 90px;
+  font-weight: 400;
+  height: 104px;
+  left: 646px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 219px;
+  width: 580px;
+}
+
+.home-template .text-wrapper-7 {
+  color: var(--negro);
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 524px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 403px;
+  width: 822px;
+}
+
+.home-template .mm-logo-negro-letras-1 {
+  background-image: url(../../../static/img/mm-logo-negro-letras-1-1.png) !important;
+  height: 500px !important;
+  left: 46px !important;
+  position: absolute !important;
+  top: 186px !important;
+  width: 500px !important;
+}
+
+.home-template .animales {
+  height: 472px;
+  left: 959px;
+  position: absolute;
+  top: 648px;
+  width: 507px;
+}
+
+.home-template .overlap-group {
+  height: 472px;
+  left: -13px;
+  position: relative;
+  width: 520px;
+}
+
+.home-template .perrito {
+  height: 472px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 409px;
+}
+
+.home-template .gatite {
+  height: 238px;
+  left: 13px;
+  position: absolute;
+  top: 219px;
+  width: 134px;
+}
+
+.home-template .ellipse {
+  background-color: #47474740;
+  border-radius: 215.54px/15.97px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 419px;
+  width: 431px;
+}

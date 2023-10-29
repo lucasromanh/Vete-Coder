@@ -1,0 +1,1 @@
+export { SeccionNombreWrapper } from "./SeccionNombreWrapper";

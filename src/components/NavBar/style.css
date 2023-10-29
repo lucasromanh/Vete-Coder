@@ -1,0 +1,48 @@
+.nav-bar {
+  align-items: center;
+  background-color: var(--verde-claro-primario);
+  display: flex;
+  gap: 200px;
+  height: 140px;
+  padding: 0px 46px;
+  position: relative;
+  width: 1512px;
+}
+
+.nav-bar .logo-nav-bar-instance {
+  position: relative !important;
+}
+
+.nav-bar .frame-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: flex-end;
+  margin-right: -50px;
+  position: relative;
+}
+
+.nav-bar .seccion-nombre-dropdown {
+  flex: 0 0 auto !important;
+}
+
+.nav-bar .iconos {
+  align-items: center;
+  display: flex;
+  gap: 45px;
+  justify-content: center;
+  position: relative;
+  width: 220px;
+}
+
+.nav-bar .buscar-icono {
+  height: 40px !important;
+  position: relative !important;
+  width: 40px !important;
+}
+
+.nav-bar .cart-icono-6 {
+  height: 35px !important;
+  position: relative !important;
+  width: 35px !important;
+}

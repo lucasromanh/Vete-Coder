@@ -1,0 +1,26 @@
+.seccion-nombre {
+  height: 40px;
+  position: relative;
+  width: 220px;
+}
+
+.seccion-nombre .secci-n {
+  color: var(--negro);
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 220px;
+}
+
+.seccion-nombre:hover .secci-n {
+  color: var(--blanco);
+  font-size: 30px;
+  font-weight: 600;
+}
